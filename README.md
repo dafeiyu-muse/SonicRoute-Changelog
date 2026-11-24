@@ -8,44 +8,9 @@
 
 | 版本 | 发布日期 | 下载量 | 可视化 |
 | --- | --- | ---: | --- |
-| [v1.35](#v135) | 2026-11-21 | 144 | ███████████████████░ |
-| [v1.34](#v134) | 2026-11-21 | 76 | ██████████░░░░░░░░░░ |
-| [v1.33](#v133) | 2026-11-18 | 96 | █████████████░░░░░░░ |
 | [v1.32](#v132) | 2026-11-14 | 149 | ████████████████████ |
-| [v1.31](#v131) | 2026-11-08 | 91 | ████████████░░░░░░░░ |
-| [v1.30](#v130) | 2026-11-04 | 67 | █████████░░░░░░░░░░░ |
+| [v1.35](#v135) | 2026-11-21 | 144 | ███████████████████░ |
 | [v1.29](#v129) | 2026-10-27 | 105 | ██████████████░░░░░░ |
-| [v1.28](#v128) | 2026-10-26 | 52 | ███████░░░░░░░░░░░░░ |
-| [v1.27](#v127) | 2026-10-24 | 53 | ███████░░░░░░░░░░░░░ |
-| [v1.26](#v126) | 2026-10-23 | 49 | ███████░░░░░░░░░░░░░ |
-| [v1.25](#v125) | 2026-10-22 | 29 | ████░░░░░░░░░░░░░░░░ |
-| [v1.24](#v124) | 2026-10-20 | 23 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.23](#v123) | 2026-10-15 | 47 | ██████░░░░░░░░░░░░░░ |
-| [v1.22](#v122) | 2026-10-11 | 24 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.21](#v121) | 2026-10-09 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.20](#v120) | 2026-10-01 | 32 | ████░░░░░░░░░░░░░░░░ |
-| [v1.12r](#v112r) | 2026-09-27 | 4 | █░░░░░░░░░░░░░░░░░░░ |
-| [v1.19](#v119) | 2026-09-21 | 85 | ███████████░░░░░░░░░ |
-| [v1.18](#v118) | 2026-09-18 | 34 | █████░░░░░░░░░░░░░░░ |
-| [v1.17](#v117) | 2026-09-17 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.16](#v116) | 2026-09-14 | 24 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.15](#v115) | 2026-09-13 | 19 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.14](#v114) | 2026-09-12 | 35 | █████░░░░░░░░░░░░░░░ |
-| [v1.13](#v113) | 2026-09-11 | 15 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.12](#v112) | 2026-09-09 | 14 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.11](#v111) | 2026-09-05 | 21 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.10](#v110) | 2026-09-04 | 24 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.0.9](#v109) | 2026-08-31 | 15 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.8](#v108) | 2026-08-28 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.7r2](#v107r2) | 2026-08-28 | 20 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.0.7](#v107) | 2026-08-28 | 19 | ███░░░░░░░░░░░░░░░░░ |
-| [v1.0.6](#v106) | 2026-08-26 | 17 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.5r4](#v105r4) | 2026-08-26 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.5r3](#v105r3) | 2026-08-26 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.4](#v104) | 2026-08-26 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.3](#v103) | 2026-08-26 | 16 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.2](#v102) | 2026-08-26 | 15 | ██░░░░░░░░░░░░░░░░░░ |
-| [v1.0.5r2](#v105r2) | 2026-08-26 | 16 | ██░░░░░░░░░░░░░░░░░░ |
 ## 版本总览
 
 | 版本 | 发布日期 | 主题 |
@@ -94,6 +59,8 @@
 ## v1.35
 
 发布日期：2026-11-21 · 上游 release：[v1.35](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.35)
+
+下载量：144 次
 
 # 🎧 SonicRoute v1.35 正式版
 
@@ -169,6 +136,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 ## v1.34
 
 发布日期：2026-11-21 · 上游 release：[v1.34](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.34)
+
+下载量：76 次
 
 # 🎧 SonicRoute v1.34 正式版
 
@@ -267,6 +236,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 发布日期：2026-11-18 · 上游 release：[v1.33](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.33)
 
+下载量：96 次
+
 # 🎧 SonicRoute v1.33 正式版
 
 > **发布日期**：2026-11-18 · **主题**：自研 C# AirPlay 音画投屏、H.265 与声画解码器选择、统一配对与无线重连、独立麦克风 OSD 与全端轻量/稳定性优化 · [📥 发布页](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.33) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -321,6 +292,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 发布日期：2026-11-14 · 上游 release：[v1.32](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.32)
 
+下载量：149 次
+
 # 🎧 SonicRoute v1.32 正式版
 
 > **发布日期**：2026-11-14 · **主题**：Full 纯 C# 自研 Android 后端瘦身、虚拟屏游戏手柄支持、系统输出自动跟随默认播放设备、手机面板间距调整与全端闲时资源优化 · [📥 发布页](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.32) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -374,6 +347,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 发布日期：2026-11-08 · 上游 release：[v1.31](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.31)
 
+下载量：91 次
+
 # 🎧 SonicRoute v1.31 正式版
 
 > **发布日期**：2026-11-08 · **主题**：友好编码器名称与九语本地化、120 fps 与 24/32/50 Mbps 预设、整机主屏镜像恢复与多设备剪贴板同步 · [📥 发布页](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.31) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -424,6 +399,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 ## v1.30
 
 发布日期：2026-11-04 · 上游 release：[v1.30](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.30)
+
+下载量：67 次
 
 # 🎧 SonicRoute v1.30 正式版
 
@@ -502,6 +479,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 ## v1.29
 
 发布日期：2026-10-27 · 上游 release：[v1.29](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.29)
+
+下载量：105 次
 
 # 🎧 SonicRoute v1.29 正式版
 
@@ -604,6 +583,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 
 发布日期：2026-10-26 · 上游 release：[v1.28](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.28)
 
+下载量：52 次
+
 # 🎧 SonicRoute v1.28 正式版
 
 > **发布时间**：2026-10-26 · **核心主题**：应用卡片、清晰的状态标记与托盘设备切换 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.28) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -697,6 +678,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 
 发布日期：2026-10-24 · 上游 release：[v1.27](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.27)
 
+下载量：53 次
+
 # 🎧 SonicRoute v1.27 正式版
 
 > **发布时间**：2026-10-24 · **核心主题**：音频会话事件通知、快速面板统一与设置体验改进 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.27) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -789,6 +772,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 
 发布日期：2026-10-23 · 上游 release：[v1.26](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.26)
 
+下载量：49 次
+
 # 🎧 SonicRoute v1.26 正式版
 
 > **发布时间**：2026-10-23 · **核心主题**：高权限应用图标修复、按需音频读取与底层状态可靠性 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.26) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -872,6 +857,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 ## v1.25
 
 发布日期：2026-10-22 · 上游 release：[v1.25](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.25)
+
+下载量：29 次
 
 # 🎧 SonicRoute v1.25 正式版
 
@@ -959,6 +946,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 发布日期：2026-10-20 · 上游 release：[v1.24](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.24)
 
+下载量：23 次
+
 # 🎧 SonicRoute v1.24 正式版
 
 > **发布时间**：2026-10-20 · **核心主题**：场景起步模板与个性化应用图标 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.24) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1037,6 +1026,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 发布日期：2026-10-15 · 上游 release：[v1.23](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.23)
 
+下载量：47 次
+
 # 🎧 SonicRoute v1.23 正式版
 
 > **发布时间**：2026-10-15 · **核心主题**：托盘右键音频控制与盲调分离 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.23) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1106,6 +1097,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 发布日期：2026-10-11 · 上游 release：[v1.22](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.22)
 
+下载量：24 次
+
 # 🎧 SonicRoute v1.22 正式版
 
 > **发布时间**：2026-10-11 · **核心主题**：开机自启隔离与轻量化加载 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.22) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1173,6 +1166,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 ## v1.21
 
 发布日期：2026-10-09 · 上游 release：[v1.21](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.21)
+
+下载量：16 次
 
 # 🎧 SonicRoute v1.21 正式版
 
@@ -1242,6 +1237,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 ## v1.20
 
 发布日期：2026-10-01 · 上游 release：[v1.20](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.20)
+
+下载量：32 次
 
 # 🎧 SonicRoute v1.20 正式版
 
@@ -1317,6 +1314,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-27 · 上游 release：[v1.12r](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.12r)
 
+下载量：4 次
+
 # 🎧 SonicRoute v1.12r 正式版
 
 > **发布时间**：2026-09-27 · **核心主题**：OSD 架构全面重构零闪烁、多屏 DPI 抖动修复与深浅托盘适配 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.12r) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1361,6 +1360,8 @@ sr "游戏开黑"
 ## v1.19
 
 发布日期：2026-09-21 · 上游 release：[v1.19](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.19)
+
+下载量：85 次
 
 # 🎧 SonicRoute v1.19 正式版
 
@@ -1413,6 +1414,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-18 · 上游 release：[v1.18](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.18)
 
+下载量：34 次
+
 # 🎧 SonicRoute v1.18 正式版
 
 > **发布时间**：2026-09-18 · **核心主题**：简洁面板固定高度重构、自动化退出与定时触发、规则启用停用状态 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.18) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1460,6 +1463,8 @@ sr "游戏开黑"
 ## v1.17
 
 发布日期：2026-09-17 · 上游 release：[v1.17](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.17)
+
+下载量：16 次
 
 # 🎧 SonicRoute v1.17 正式版
 
@@ -1509,6 +1514,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-14 · 上游 release：[v1.16](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.16)
 
+下载量：24 次
+
 # 🎧 SonicRoute v1.16 正式版
 
 > **发布时间**：2026-09-14 · **核心主题**：极简可视化自动化规则引擎上线、快速面板滑入动效 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.16) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1557,6 +1564,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-13 · 上游 release：[v1.15](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.15)
 
+下载量：19 次
+
 # 🎧 SonicRoute v1.15 正式版
 
 > **发布时间**：2026-09-13 · **核心主题**：9 语言架构重构与外置语言扩展、屏幕定位与启动选项 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.15) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1603,6 +1612,8 @@ sr "游戏开黑"
 ## v1.14
 
 发布日期：2026-09-12 · 上游 release：[v1.14](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.14)
+
+下载量：35 次
 
 # 🎧 SonicRoute v1.14 正式版
 
@@ -1651,6 +1662,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-11 · 上游 release：[v1.13](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.13)
 
+下载量：15 次
+
 # 🎧 SonicRoute v1.13 正式版
 
 > **发布时间**：2026-09-11 · **核心主题**：麦克风静音常驻横幅、幽灵音频会话智能过滤、输入设备全量感知 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.13) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1697,6 +1710,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-09 · 上游 release：[v1.12](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.12)
 
+下载量：14 次
+
 # 🎧 SonicRoute v1.12 正式版
 
 > **发布时间**：2026-09-09 · **核心主题**：全新 Win11 飞出式简洁快速面板、状态强调色与多语言 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.12) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1741,6 +1756,8 @@ sr "游戏开黑"
 ## v1.11
 
 发布日期：2026-09-05 · 上游 release：[v1.11](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.11)
+
+下载量：21 次
 
 # 🎧 SonicRoute v1.11 正式版
 
@@ -1787,6 +1804,8 @@ sr "游戏开黑"
 
 发布日期：2026-09-04 · 上游 release：[v1.10](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.10)
 
+下载量：24 次
+
 # 🎧 SonicRoute v1.10 正式版
 
 > **发布时间**：2026-09-04 · **核心主题**：折叠 UI 优化、8 语言翻译补齐、内存换出优化 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.10) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1832,6 +1851,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-31 · 上游 release：[v1.0.9](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.9)
 
+下载量：15 次
+
 # 🎧 SonicRoute v1.0.9 正式版
 
 > **发布时间**：2026-08-31 · **核心主题**：实验设置一键还原、关闭 UI 内存回收多层修复 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.9) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1875,6 +1896,8 @@ sr "游戏开黑"
 ## v1.0.8
 
 发布日期：2026-08-28 · 上游 release：[v1.0.8](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.8)
+
+下载量：16 次
 
 # 🎧 SonicRoute v1.0.8 正式版
 
@@ -1920,6 +1943,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-28 · 上游 release：[v1.0.7r2](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.7r2)
 
+下载量：20 次
+
 # 🎧 SonicRoute v1.0.7r2 正式版
 
 > **发布时间**：2026-08-28 · **核心主题**：关闭 UI 内存释放子选项与发布说明乱码修复 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.7r2) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -1963,6 +1988,8 @@ sr "游戏开黑"
 ## v1.0.7
 
 发布日期：2026-08-28 · 上游 release：[v1.0.7](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.7)
+
+下载量：19 次
 
 # 🎧 SonicRoute v1.0.7 正式版
 
@@ -2009,6 +2036,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-26 · 上游 release：[v1.0.6](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.6)
 
+下载量：17 次
+
 # 🎧 SonicRoute v1.0.6 正式版
 
 > **发布时间**：2026-08-26 · **核心主题**：禁用自动切换、快捷键与任务栏解析一致、粉色主题修正 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.6) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -2053,6 +2082,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-26 · 上游 release：[v1.0.5r4](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.5r4)
 
+下载量：16 次
+
 # 🎧 SonicRoute v1.0.5r4 正式版
 
 > **发布时间**：2026-08-26 · **核心主题**：修复快捷键识别错误应用缺陷 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.5r4) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -2096,6 +2127,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-26 · 上游 release：[v1.0.5r3](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.5r3)
 
+下载量：16 次
+
 # 🎧 SonicRoute v1.0.5r3 正式版
 
 > **发布时间**：2026-08-26 · **核心主题**：设置页全选按钮交互优化 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.5r3) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -2138,6 +2171,8 @@ sr "游戏开黑"
 ## v1.0.4
 
 发布日期：2026-08-26 · 上游 release：[v1.0.4](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.4)
+
+下载量：16 次
 
 # 🎧 SonicRoute v1.0.4 正式版
 
@@ -2183,6 +2218,8 @@ sr "游戏开黑"
 
 发布日期：2026-08-26 · 上游 release：[v1.0.3](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.3)
 
+下载量：16 次
+
 # 🎧 SonicRoute v1.0.3 正式版
 
 > **发布时间**：2026-08-26 · **核心主题**：应用自定义名称、最近使用模式、应用排序功能 · [📥 资产下载](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.3) · [📖 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
@@ -2226,6 +2263,8 @@ sr "游戏开黑"
 ## v1.0.2
 
 发布日期：2026-08-26 · 上游 release：[v1.0.2](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.2)
+
+下载量：15 次
 
 # 🎧 SonicRoute v1.0.2 正式版
 
@@ -2271,6 +2310,8 @@ sr "游戏开黑"
 ## v1.0.5r2
 
 发布日期：2026-08-26 · 上游 release：[v1.0.5r2](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.0.5r2)
+
+下载量：16 次
 
 # 🎧 SonicRoute v1.0.5r2 正式版
 
