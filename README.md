@@ -1,6 +1,8 @@
 # SonicRoute-Changelog
 
-收录 SonicRoute 每个版本的官方变化，内容来自上游 release 说明原文；源仓库：[kunkunkunQoQ/SonicRoute](https://github.com/kunkunkunQoQ/SonicRoute)，上游发布页：[Releases](https://github.com/kunkunkunQoQ/SonicRoute/releases)。
+[![上游仓库](https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93-kunkunkunQoQ%2FSonicRoute-181717?style=flat-square&logo=github)](https://github.com/kunkunkunQoQ/SonicRoute) ![收录版本](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%89%88%E6%9C%AC-39%20%E4%B8%AA-007EC6?style=flat-square) ![总下载量](https://img.shields.io/badge/%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F-1669%20%E6%AC%A1-4CAF50?style=flat-square) ![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v1.36-FF9800?style=flat-square) ![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0--only-9E9E9E?style=flat-square)
+
+> 📜 收录 SonicRoute 每个版本的官方变化，内容来自上游 release 说明原文；源仓库：[kunkunkunQoQ/SonicRoute](https://github.com/kunkunkunQoQ/SonicRoute)，上游发布页：[Releases](https://github.com/kunkunkunQoQ/SonicRoute/releases)。
 
 ---
 
@@ -8,11 +10,20 @@
 
 **总下载量：1669 次**（39 个版本合计）。数据为 GitHub release 附件下载量快照，统计时间 2026-11-26 15:21；数字会随时间增长。
 
-| 排名 | 版本 | 发布日期 | 下载量 | 可视化 |
-| --- | --- | --- | ---: | --- |
-| 🥇 | [v1.35](#v135) | 2026-11-21 | 199 | ████████████████████ |
-| 🥈 | [v1.32](#v132) | 2026-11-14 | 155 | ████████████████░░░░ |
-| 🥉 | [v1.29](#v129) | 2026-10-27 | 107 | ███████████░░░░░░░░░ |
+| 排名 | 版本 | 发布日期 | 下载量 | 占比 | 可视化 |
+| --- | --- | --- | ---: | ---: | --- |
+| 🥇 | [v1.35](#v135) | 2026-11-21 | 199 | 11.9% | ████████████████████ |
+| 🥈 | [v1.32](#v132) | 2026-11-14 | 155 | 9.3% | ████████████████░░░░ |
+| 🥉 | [v1.29](#v129) | 2026-10-27 | 107 | 6.4% | ███████████░░░░░░░░░ |
+
+前三名合计 **461 次**，占总下载量的 **27.6%**。
+
+## 🧭 快速导航
+
+- **2026 年 11 月**：[v1.36](#v136) · [v1.35](#v135) · [v1.34](#v134) · [v1.33](#v133) · [v1.32](#v132) · [v1.31](#v131) · [v1.30](#v130)
+- **2026 年 10 月**：[v1.29](#v129) · [v1.28](#v128) · [v1.27](#v127) · [v1.26](#v126) · [v1.25](#v125) · [v1.24](#v124) · [v1.23](#v123) · [v1.22](#v122) · [v1.21](#v121) · [v1.20](#v120)
+- **2026 年 9 月**：[v1.12r](#v112r) · [v1.19](#v119) · [v1.18](#v118) · [v1.17](#v117) · [v1.16](#v116) · [v1.15](#v115) · [v1.14](#v114) · [v1.13](#v113) · [v1.12](#v112) · [v1.11](#v111) · [v1.10](#v110)
+- **2026 年 8 月**：[v1.0.9](#v109) · [v1.0.8](#v108) · [v1.0.7r2](#v107r2) · [v1.0.7](#v107) · [v1.0.6](#v106) · [v1.0.5r4](#v105r4) · [v1.0.5r3](#v105r3) · [v1.0.4](#v104) · [v1.0.3](#v103) · [v1.0.2](#v102) · [v1.0.5r2](#v105r2)
 
 ## 🗂️ 版本总览
 
@@ -61,6 +72,8 @@
 ---
 
 ## 📜 完整版变化记录
+
+以下为 39 个版本的完整发布说明原文，按发布日期倒序排列；每章末尾可返回[版本总览](#-版本总览)。
 
 ## v1.36
 
@@ -145,6 +158,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 本版采用 GPL-3.0-only。第三方组件沿用各自的许可证。 [许可证全文](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.36/LICENSE) · [第三方声明](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.36/packaging/AndroidLab/THIRD-PARTY-NOTICES.md) · [完整源码比较](https://github.com/kunkunkunQoQ/SonicRoute/compare/v1.35...v1.36)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.35
@@ -221,6 +236,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 ## 📜 许可证说明（GPL-3.0-only）
 
 本版采用 GPL-3.0-only。第三方组件沿用各自的许可证。 [许可证全文](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.35/LICENSE) · [第三方声明](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.35/packaging/AndroidLab/THIRD-PARTY-NOTICES.md) · [完整源码比较](https://github.com/kunkunkunQoQ/SonicRoute/compare/v1.34...v1.35)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -321,6 +338,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 本版采用 GPL-3.0-only。第三方组件沿用各自的许可证。 [许可证全文](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.34/LICENSE) · [第三方声明](https://github.com/kunkunkunQoQ/SonicRoute/blob/v1.34/packaging/AndroidLab/THIRD-PARTY-NOTICES.md) · [完整源码比较](https://github.com/kunkunkunQoQ/SonicRoute/compare/v1.33...v1.34)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.33
@@ -377,6 +396,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 - **当前发行协议（GPL-3.0-only）**：自 **2026 年 11 月 17 日**起（提交 `46cf001`），完整 SonicRoute 源码与 `v1.33` 及后续发行物（在版权所有者有权授权的范围内）采用 GNU 通用公共许可证第 3 版，仅限该版本（`GPL-3.0-only`），允许商用、销售与收费分发，须遵守 GPL 条款；分发所涵盖的修改作品或二进制文件时，须继续使用 GPL 第 3 版并按 GPL 第 6 条提供完整对应源码与必要声明，详见仓库 [LICENSE](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/LICENSE) 与 [LICENSING.md](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/docs/LICENSING.md)（新版本设置页亦可点击 `GPL-3.0` 离线查看）。
 - **既有发行物与第三方许可保留**：此前已授予的 MIT 权限（含原始 `v1.32` 标签 `4e3138f` 及其既有下载资产）及 2026-11-14 期间的旧自定义许可权限继续有效；本次仓库协议迁移不撤销先前授予的权限，亦不改写既有标签或已发布的旧二进制资产，第三方组件保留各自原有许可（见 [THIRD-PARTY-NOTICES.md](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/packaging/AndroidLab/THIRD-PARTY-NOTICES.md) 与 [AirPlay 兼容声明](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/SonicRoute.AndroidAudio/AirPlay/Compatibility/NOTICE.md)）。
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.32
@@ -432,6 +453,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 - **当前主分支协议（GPL-3.0-only）**：自 **2026 年 11 月 17 日**起（提交 `46cf001`），主分支完整 SonicRoute 源码（在版权所有者有权授权的范围内）采用 GNU 通用公共许可证第 3 版，仅限该版本（`GPL-3.0-only`），允许商用、销售与收费分发，须遵守 GPL 条款；分发所涵盖的修改作品或二进制文件时，须继续使用 GPL 第 3 版并按 GPL 第 6 条提供完整对应源码与必要声明，详见仓库 [LICENSE](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/LICENSE) 与 [LICENSING.md](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/docs/LICENSING.md)。
 - **既有发行物与历史许可保留**：此前已授予的 MIT 权限（含原始 `v1.32` 标签 `4e3138f` 及其既有下载资产）及 2026-11-14 期间的旧自定义许可权限继续有效；本次仓库协议迁移不撤销先前授予的权限，亦不改写既有标签或已发布的旧二进制资产，第三方组件保留各自原有许可（见 [THIRD-PARTY-NOTICES.md](https://github.com/kunkunkunQoQ/SonicRoute/blob/master/packaging/AndroidLab/THIRD-PARTY-NOTICES.md)）。
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.31
@@ -484,6 +507,8 @@ To upgrade a portable edition, close that edition before replacing its executabl
 | 🔄 **Microsoft Store** | [Full](https://apps.microsoft.com/detail/9NQZGRTPM1NT) / [Lite](https://apps.microsoft.com/detail/9N37LQ8SMLF6) | 商店版（提供 Full / Lite；在架版本以商店页面为准） |
 | 📋 **更新清单** | [`SonicRoute-update.json`](https://github.com/kunkunkunQoQ/SonicRoute/releases/download/v1.31/SonicRoute-update.json) | 客户端自动更新检测清单（Protocol 2） |
 | 🔒 **校验散列** | [`SHA256SUMS.txt`](https://github.com/kunkunkunQoQ/SonicRoute/releases/download/v1.31/SHA256SUMS.txt) | SHA-256 完整性校验文件 |
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -564,6 +589,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 ## 🔄 升级与数据保留
 
 升级前请从托盘正常退出 SonicRoute。替换单 EXE 或完整解压 Legacy ZIP 时，选择对应发行形态与架构；升级器不会跨发行形态或运行时迁移。设置、自动化规则、主题和自定义图标保存在数据目录中，手动升级前可按需备份 `%LocalAppData%\SonicRoute\`。Store 版继续通过 Microsoft Store 更新。
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -668,6 +695,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [快捷键](https://github.com/kunkunkunQoQ/SonicRoute/wiki/03-%E5%BF%AB%E6%8D%B7%E9%94%AE) · [自动化规则](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99)
 - [完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [反馈问题](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [支持作者](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.28
@@ -763,6 +792,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [快捷键](https://github.com/kunkunkunQoQ/SonicRoute/wiki/03-%E5%BF%AB%E6%8D%B7%E9%94%AE) · [自动化规则](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99)
 - [完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [反馈问题](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [支持作者](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.27
@@ -857,6 +888,8 @@ Full 与 Lite 按单 EXE 提供，不做额外程序压缩；Legacy 是 13 文�
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [自动化规则配置手册](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.26
@@ -942,6 +975,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [自动化规则配置手册](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1031,6 +1066,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [自动化规则配置手册](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.24
@@ -1111,6 +1148,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [自动化规则配置](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99) · [常见问题解答](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.23
@@ -1182,6 +1221,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [快捷键设置手册](https://github.com/kunkunkunQoQ/SonicRoute/wiki/03-%E5%BF%AB%E6%8D%B7%E9%94%AE) · [常见问题解答](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.22
@@ -1251,6 +1292,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [命令行执行规则](https://github.com/kunkunkunQoQ/SonicRoute/wiki/05-%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%A7%E8%A1%8C%E8%A7%84%E5%88%99) · [常见问题解答](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1322,6 +1365,8 @@ Windows 底层将音频设备划分为数据流向（播放 Render / 录音 Capt
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [自动化规则指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/04-%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%84%E5%88%99) · [技术实现架构](https://github.com/kunkunkunQoQ/SonicRoute/wiki/07-%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1399,6 +1444,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [命令行执行规则](https://github.com/kunkunkunQoQ/SonicRoute/wiki/05-%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%A7%E8%A1%8C%E8%A7%84%E5%88%99) · [常见问题解答](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [提交建议或 Bug 反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.12r
@@ -1445,6 +1492,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1499,6 +1548,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.18
@@ -1548,6 +1599,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1599,6 +1652,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.16
@@ -1649,6 +1704,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.15
@@ -1697,6 +1754,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1747,6 +1806,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.13
@@ -1795,6 +1856,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.12
@@ -1841,6 +1904,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -1889,6 +1954,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.10
@@ -1936,6 +2003,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.9
@@ -1981,6 +2050,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -2028,6 +2099,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.7r2
@@ -2073,6 +2146,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -2121,6 +2196,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.6
@@ -2167,6 +2244,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.5r4
@@ -2212,6 +2291,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.5r3
@@ -2256,6 +2337,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -2303,6 +2386,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.3
@@ -2348,6 +2433,8 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
 
@@ -2396,6 +2483,8 @@ sr "游戏开黑"
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
 
+> [⬆ 返回版本总览](#-版本总览)
+
 ---
 
 ## v1.0.5r2
@@ -2440,5 +2529,7 @@ sr "游戏开黑"
 
 - [Wiki 使用指南](https://github.com/kunkunkunQoQ/SonicRoute/wiki/01-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97) · [常见问题排障](https://github.com/kunkunkunQoQ/SonicRoute/wiki/06-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 - [📚 完整版本历史](https://github.com/kunkunkunQoQ/SonicRoute/wiki/09-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2) · [🐛 提交建议与问题反馈](https://github.com/kunkunkunQoQ/SonicRoute/issues/new/choose) · [💖 在爱发电支持我们](https://afdian.com/a/koukou021)
+
+> [⬆ 返回版本总览](#-版本总览)
 
 ---
