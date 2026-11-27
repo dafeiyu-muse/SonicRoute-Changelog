@@ -1,6 +1,6 @@
 # SonicRoute-Changelog
 
-[![上游仓库](https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93-kunkunkunQoQ%2FSonicRoute-181717?style=flat-square&logo=github)](https://github.com/kunkunkunQoQ/SonicRoute) ![收录版本](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%89%88%E6%9C%AC-39%20%E4%B8%AA-007EC6?style=flat-square) ![总下载量](https://img.shields.io/badge/%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F-1669%20%E6%AC%A1-4CAF50?style=flat-square) ![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v1.36-FF9800?style=flat-square) ![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0--only-9E9E9E?style=flat-square)
+[![上游仓库](https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93-kunkunkunQoQ%2FSonicRoute-181717?style=flat-square&logo=github)](https://github.com/kunkunkunQoQ/SonicRoute) ![收录版本](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%89%88%E6%9C%AC-39%20%E4%B8%AA-007EC6?style=flat-square) ![总下载量](https://img.shields.io/badge/%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F-1713%20%E6%AC%A1-4CAF50?style=flat-square) ![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v1.36-FF9800?style=flat-square) ![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0--only-9E9E9E?style=flat-square)
 
 > 📜 收录 SonicRoute 每个版本的官方变化，内容来自上游 release 说明原文；源仓库：[kunkunkunQoQ/SonicRoute](https://github.com/kunkunkunQoQ/SonicRoute)，上游发布页：[Releases](https://github.com/kunkunkunQoQ/SonicRoute/releases)。
 
@@ -8,15 +8,15 @@
 
 ## 📥 下载量
 
-**总下载量：1669 次**（39 个版本合计）。数据为 GitHub release 附件下载量快照，统计时间 2026-11-26 15:21；数字会随时间增长。
+**总下载量：1713 次**（39 个版本合计）。数据为 GitHub release 附件下载量快照，统计时间 2026-11-27 21:05；数字会随时间增长。
 
 | 排名 | 版本 | 发布日期 | 下载量 | 占比 | 可视化 |
 | --- | --- | --- | ---: | ---: | --- |
-| 🥇 | [v1.35](#v135) | 2026-11-21 | 199 | 11.9% | ████████████████████ |
-| 🥈 | [v1.32](#v132) | 2026-11-14 | 155 | 9.3% | ████████████████░░░░ |
-| 🥉 | [v1.29](#v129) | 2026-10-27 | 107 | 6.4% | ███████████░░░░░░░░░ |
+| 🥇 | [v1.35](#v135) | 2026-11-21 | 199 | 11.6% | ████████████████████ |
+| 🥈 | [v1.32](#v132) | 2026-11-14 | 156 | 9.1% | ████████████████░░░░ |
+| 🥉 | [v1.36](#v136) | 2026-11-24 | 119 | 6.9% | ████████████░░░░░░░░ |
 
-前三名合计 **461 次**，占总下载量的 **27.6%**。
+前三名合计 **474 次**，占总下载量的 **27.7%**。
 
 ## 🧭 快速导航
 
@@ -79,7 +79,7 @@
 
 发布日期：2026-11-24 · 上游 release：[v1.36](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.36)
 
-下载量：**77 次**
+下载量：**119 次**
 
 # 🎧 SonicRoute v1.36 正式版
 
@@ -346,7 +346,7 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 发布日期：2026-11-18 · 上游 release：[v1.33](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.33)
 
-下载量：**96 次**
+下载量：**97 次**
 
 # 🎧 SonicRoute v1.33 正式版
 
@@ -404,7 +404,7 @@ To upgrade a portable edition, close that edition before replacing its executabl
 
 发布日期：2026-11-14 · 上游 release：[v1.32](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v1.32)
 
-下载量：**155 次**
+下载量：**156 次**
 
 # 🎧 SonicRoute v1.32 正式版
 
