@@ -1,6 +1,6 @@
 # SonicRoute-Changelog
 
-[![上游仓库](https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93-kunkunkunQoQ%2FSonicRoute-181717?style=flat-square&logo=github)](https://github.com/kunkunkunQoQ/SonicRoute) ![收录版本](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%89%88%E6%9C%AC-40%20%E4%B8%AA-007EC6?style=flat-square) ![总下载量](https://img.shields.io/badge/%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F-1802%20%E6%AC%A1-4CAF50?style=flat-square) ![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v2.00-FF9800?style=flat-square) ![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0--only-9E9E9E?style=flat-square)
+[![上游仓库](https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E4%BB%93%E5%BA%93-kunkunkunQoQ%2FSonicRoute-181717?style=flat-square&logo=github)](https://github.com/kunkunkunQoQ/SonicRoute) ![收录版本](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%89%88%E6%9C%AC-40%20%E4%B8%AA-007EC6?style=flat-square) ![总下载量](https://img.shields.io/badge/%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F-1804%20%E6%AC%A1-4CAF50?style=flat-square) ![最新版本](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-v2.00-FF9800?style=flat-square) ![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0--only-9E9E9E?style=flat-square)
 
 > 📜 收录 SonicRoute 每个版本的官方变化，内容来自上游 release 说明原文；源仓库：[kunkunkunQoQ/SonicRoute](https://github.com/kunkunkunQoQ/SonicRoute)，上游发布页：[Releases](https://github.com/kunkunkunQoQ/SonicRoute/releases)。
 
@@ -8,7 +8,7 @@
 
 ## 📥 下载量
 
-**总下载量：1802 次**（40 个版本合计）。数据为 GitHub release 附件下载量快照，统计时间 2026-11-28 16:36；数字会随时间增长。
+**总下载量：1804 次**（40 个版本合计）。数据为 GitHub release 附件下载量快照，统计时间 2026-11-28 17:31；数字会随时间增长。
 
 | 排名 | 版本 | 发布日期 | 下载量 | 占比 | 可视化 |
 | --- | --- | --- | ---: | ---: | --- |
@@ -80,7 +80,7 @@
 
 发布日期：2026-11-28 · 上游 release：[v2.00](https://github.com/kunkunkunQoQ/SonicRoute/releases/tag/v2.00)
 
-下载量：**29 次**
+下载量：**31 次**
 
 # 🎧 SonicRoute v2.00
 
